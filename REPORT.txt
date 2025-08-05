@@ -1,0 +1,13 @@
+##AI Usage Report – AI-Assisted Workflow##
+The development of the AdMyBrand landing page was completed in under 7 hours using an AI-powered, remotely coordinated, and highly flexible workflow. AI tools were instrumental in accelerating the process, enhancing productivity, and minimizing manual overhead.
+
+ChatGPT served as a real-time coding assistant helping troubleshoot Next.js and Tailwind CSS errors, generate responsive UI components, and provide instant solutions for PostCSS and build-time bugs. This allowed us to work fluidly without breaks in momentum, even across remote devices.
+
+For creative content, Gemini AI was used to generate taglines, section copy, CTAs, and even meta descriptions. It also helped iterate fast on tone, branding alignment, and text variations, ensuring the final copy resonated with our target users.
+
+To speed up design research, we leveraged web scraping with AI to extract relevant components from ShadCN and Aceternity UI. AI then filtered and categorized these components based on their visual and functional relevance to our project, saving significant time in manual UI planning.
+
+AI-integrated design tools, such as Figma AI plugins, were also employed to preview UI structures based on low-fidelity sketches, streamlining the layout process.
+
+The use of these tools enabled us to work remotely and flexibly, without any in-person meetings or rigid timelines. The entire site was conceptualized, designed, coded, and reviewed collaboratively in a single remote sprint proving that with AI, rapid, high-quality development is entirely possible within a few hours.
+
