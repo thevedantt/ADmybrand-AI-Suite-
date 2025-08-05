@@ -9,7 +9,7 @@ A production-ready SaaS landing page built with Next.js 14, TypeScript, and mode
 
 ## Live Demo
 
-**[View Live Demo](https://admybrand-landing.vercel.app)**
+**[View Live Demo](https://admybrand-ai-suite-delta.vercel.app/)**
 
 ## Features
 
