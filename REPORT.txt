@@ -1,4 +1,4 @@
-##AI Usage Report – AI-Assisted Workflow##
+AI Usage Report – AI-Assisted Workflow
 The development of the AdMyBrand landing page was completed in under 7 hours using an AI-powered, remotely coordinated, and highly flexible workflow. AI tools were instrumental in accelerating the process, enhancing productivity, and minimizing manual overhead.
 
 ChatGPT served as a real-time coding assistant helping troubleshoot Next.js and Tailwind CSS errors, generate responsive UI components, and provide instant solutions for PostCSS and build-time bugs. This allowed us to work fluidly without breaks in momentum, even across remote devices.
