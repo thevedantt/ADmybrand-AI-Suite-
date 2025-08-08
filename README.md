@@ -7,7 +7,7 @@ A production-ready SaaS landing page built with Next.js 14, TypeScript, and mode
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.0-black?style=flat&logo=framer)](https://www.framer.com/motion/)
 
-![ADmyBRAND AI Suite Screenshot](flex.png)
+![ADmyBRAND AI Suite Screenshot](./public/flex.png)
 
 *ADmyBRAND AI Suite - Modern SaaS landing page with AI-powered campaign management dashboard*
 
